@@ -1,0 +1,7 @@
+.completed {
+    background-color: aquamarine;
+}
+.item {
+    width: 400px;
+    border: 1px solid black;
+}
